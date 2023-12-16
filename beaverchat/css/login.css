@@ -1,0 +1,42 @@
+.centered {
+    display: block;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    vertical-align: middle;
+    margin-top: 20%;
+    text-align:centered;
+}
+
+.panel {
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 30%;
+    height: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 10%;
+    font-family: "Georgia";
+    background: rgba(236, 236, 236, 1);
+}
+
+.header {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 15px;
+}
+
+.formContainer {
+    margin: 5%;
+    margin-top: 10%;
+}
+
+.enterbutton {
+    width: 100%;
+    margin-top: 10px;
+    background: orange;
+}
+
+#errormsg {
+    visibility: hidden;
+}
